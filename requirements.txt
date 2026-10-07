@@ -1,0 +1,16 @@
+# Основные библиотеки
+pandas>=3.0
+numpy>=2.0
+
+# Визуализация
+matplotlib>=3.0
+seaborn>=0.13
+
+# Чтение Excel
+openpyxl>=3.0
+
+# Работа с датами
+python-dateutil>=2.0
+
+# Среда выполнения
+jupyterlab>=4.0
